@@ -39,7 +39,7 @@ and locomotion performance. Experiments included:
 ## Demonstrations
 
 - [Robot locomotion](flat_acrylic_sheet_video.mp4)
-- [Experimental testing](YOUR_LINK)
+- [Experimental testing](inclined_plane_video.mp4)
 
 ## Sensing and Electronics
 
