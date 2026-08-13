@@ -2,7 +2,7 @@
 
 **Design and experimental characterization of a Kresling-origami inchworm robot for pipeline inspection and proprioceptive corrosion detection.**
 
-![Robot Concept](images/concept.png)
+![Robot Concept](images/Concept.png)
 
 ## Overview
 
