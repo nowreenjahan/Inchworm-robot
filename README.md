@@ -54,7 +54,7 @@ sensor-based methods for defect detection and localization.
 A selected presentation covering the robot concept, mechanical design,
 fabrication, experimental setup, and results is available below.
 
-[View Project Presentation](presentation/project_presentation.pdf)
+[View Project Presentation](presentation/PROJECT_PRESENTATION.pdf)
 
 ## Technologies
 
