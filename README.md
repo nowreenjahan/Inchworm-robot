@@ -36,6 +36,11 @@ and locomotion performance. Experiments included:
 
 ![Experimental Setup](images/experimental_setup.png)
 
+## Demonstrations
+
+- [Robot locomotion](flat_acrylic_sheet_video.mp4)
+- [Experimental testing](YOUR_LINK)
+
 ## Sensing and Electronics
 
 The project incorporates embedded electronics and proprioceptive sensing
